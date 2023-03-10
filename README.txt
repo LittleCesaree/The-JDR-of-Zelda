@@ -1,27 +1,18 @@
-Merci d'avoir téléchargé le JDR The Legends of Hyrule.
-
-Le jeu est encore en cours d'édition et est voué à être modifié ; n'hésitez pas à m'envoyer
-vos remarques par mail à l'adresse LittleCesaree@gmail.com , car celles-ci me permettent
-d'améliorer le jeu.
-Outre des remarques, toute idée de contenue est bienvenue, mais l'état du jeu 
-ne devrait plus trop changer en termes de mécaniques de jeu.
-
-Je serais aussi très heureux d'entendre des résumés de vos parties sur le jeu !
+Hyliens, embarquez-vous dans une aventure dans Hyrule et ses alentours, où vous retrouverez les races de tout Hyrule ! **Jouez un Hylien, un Zora, un Goron ou même un Twili, et découvrez un système de jeu orienté *sandbox*, permettant une aventure aussi libre que celles des jeux les plus ouverts de la série !**
 
 
-Quelques problèmes qui seront réglés dans une prochaine version et qu'il n'est pas nécessaire
-de me notifier :
+Ce JDR reprend les systèmes des JDR "classiques" : les actions se font avec des jets de D20, et leur réussite dépend de la chance et des caractéristiques des personnages. Le jeu se veut toutefois un peu moins chiffré qu'un *Donjons et Dragons*, tournant autour de trois caractéristiques principales : **la Force, la Dextérité et le Charisme**, qui forment les principales valeurs à utiliser pour agir dans le jeu.
 
-Livret de données :
-- certains objets, équipements, etc, n'ont pas la mise en page adaptée et manquent d'icones.
-- certains équipements n'ont pas de description.
-- il manque des sorts et il n'y a que peu d'ennemis.
-- la couverture est moche.
+Les combats se déroulent au tour par tour, avec un système d'endurance inspiré des derniers opus de la série, **donnant aux combattants la possibilité d'utiliser plusieurs actions par tour en l'échange de points d'endurance.** Dynamique, ce système offre un bon équilibre entre stratégie et action rapide, permettant des combats épiques et au ressenti proche des jeux de la série !
 
-Manuel de règle :
-- certains tableaux ont un habillage plus rudimentaire que d'autres.
-- il n'y a pas d'illustration (si vous souhaitez contribuer bénévolement, vous pouvez
-m'envoyer un mail).
-- la couverture est moche.
+- Plus de 100 armes,
+- Plus de 100 pièces d'équipement,
+- Plus de 100 compétences actives (dont une moitié de races),
+- Plus de 75 sorts élémentaires,
+- 50 mélodies, aux effets variés en combat et hors combat,
+- 25 compétences d'armes,
+- Une trentaine de compétences passives,
+- Une trentaine d'ennemis,
+- 8 races uniques.
 
-Ce jeu n'est pas partagé dans le but de générer de revenus.
+Le jeu étant encore en cours d'édition, je serais très heureux d’entendre vos retours, que ce soit après avoir survolé le manuel, après une lecture approfondie, ou après une partie pour les plus intéressés. 
