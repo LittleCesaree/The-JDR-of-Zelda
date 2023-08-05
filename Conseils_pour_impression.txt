@@ -1,0 +1,36 @@
+Si vous souhaitez imprimer le manuel de règle ou le livret de données,
+quelques recommandations basée sur la première impression personnelle.
+L'impression ressemble à celle d'un dossier de mémoire, mais la présence de
+beaucoup d'images peut la rendre un peu particulière :
+
+/!\ POUR LES DEUX LIVRES /!\
+Demandez absolument une page de test sur laquelle se trouve des icones (une du livret de données
+peut faire l'affaire), car certaines impressions laser suppriment la transparence de ces images,
+et ajoutent un carré blanc autour d'elles.
+L'impression à jet d'encre peut, par conséquent, être préférable.
+Il est possible que les couleurs aient un rendu un peu différent de celui sur écran, même chez
+un professionnel.
+
+Pour le MANUEL DE REGLES :
+- Recto verso
+- Couleur
+- Papier spécial pour la couverture ("Metallic" ou avec effet brillance, ou autre ; bien épais dans tous les cas) ;
+- Papier de grammage 80g/m² minimum, pour éviter de l'abimer et surtout éviter transparence ;
+- reliure à spirale, ou thermocollé, à votre convenance. Le thermocollé est plus beau mais peut rendre
+la photocopie des feuilles de personnage plus difficile (bien qu'elles soient fournies en PDF).
+En thermocollé, les pages de race demande de bien ouvrir le livre, étant sur un format différent du reste. 
+
+Pour le LIVRET DE DONNEES :
+- Recto verso
+- Couleur
+- Papier spécial pour la couverture ("Metallic" ou avec effet brillance, ou autre ; bien épais dans tous les cas) ;
+- Papier de grammage 80g/m² minimum, pour éviter de l'abimer et surtout éviter transparence ;
+- Reliure à spirale recommandée pour une meilleure consultation des tableaux.
+-----> Préciser que la marge du document est réglée sur "étroite" sur Word. Plus difficile à lire sur un
+	thermocollé.
+
+Prix à prévoir : 90 à 115€ environ, selon entreprise, papier choisi, etc.
+Prévoir du temps, ce genre d'impression peut être longue.
+
+Merci infiment à Tabis Imrpimerie d'avoir permis la première impression des deux livrets. Nous vous
+recommandons leur service si vous êtes à proximité.

@@ -1,0 +1,40 @@
+Mail : LittleCesaree@gmail.com
+
+
+
+Merci d'avoir téléchargé The Legend of Hyrule !
+
+Le jeu est considéré comme jouable et "terminé", dans le sens où je ne pense pas le compléter beaucoup plus.
+Je l'ai fait imprimer pour un usage personnel et fourni dans le fichier .txt "Conseils_pour_impression" les détails pour ceux
+qui souhaiteraient l'imprimer chez eux.
+
+Le jeu est encore relativement incomplet dans le livret de données, n'hésitez pas à inventer vos propres équipements, 
+ennemis, sorts, etc.. J'admets avoir manqué d'inspiration passé un certain temps sur la rédaction. Voulant passer
+à d'autres projets, j'ai jugé que le mieux était l'ennemi du bien, et qu'il fallait savoir se contenter d'un jeu
+jouable qui s'étofferait avec les campagnes.
+Si vous ajoutez de nouveaux objets, ennemis, capacités, ou tout autre chose dans vos campagnes, n'hésitez pas à me les envoyer par mail,
+je me ferai un plaisir de les ajouter dans une version ultérieure si ils ne s'éloignent pas trop de l'esprit des jeux et si vous
+souhaitez les voir dans le livret de données.
+
+
+N'hésitez pas à m'envoyer vos remarques par mail à l'adresse LittleCesaree@gmail.com , car celles-ci me permettent d'améliorer le jeu.
+Outre des remarques, toute idée de contenue est bienvenue, mais l'état du jeu ne devrait plus changer en termes de mécaniques de jeu.
+A la limite, j'accepte des idées de modules.
+
+Je serais aussi très heureux d'entendre des résumés de vos parties et campagnes !
+
+Si vous souhaitez BENEVOLEMENT fournir une ou plusieurs illustrations pour le manuel, nous pouvons en discuter. Toutefois, je préfère
+prévenir que je ne suis pas en mesure de payer pour l'ensemble des illustrations que je prévoyais, raison pour laquelle j'ai finalement
+décidé de ne pas en inclure.
+
+
+Quelques problèmes connus qui ont échappé à ma vigilance avant la première impression personnelle,
+et qu'il n'est pas nécessaire de me notifier :
+
+- Des icones se sont glissés dans certains noms d'ennemis et d'équipement, notamment l'icone "OK" sur les b-ok-oblins.
+- Les numéros de pages sont mal placés dans le manuel de règles (uniquement si vous l'imprimez).
+- Certains titres du livret de données affichent "Chapitre ...", c'est un problème connu qui semble correspondre à un bug
+de Word, car j'ai beau désactiver les puces sur ces titres, la mention chapitre réapparait à chaque fois que j'ouvre le fichier.
+
+
+Ce jeu n'est pas partagé dans le but de générer de revenus.
